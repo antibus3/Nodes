@@ -1,0 +1,10 @@
+E:\GitHub\Nodes\Nodes\Nodes\bin\Debug\Nodes.exe.config
+E:\GitHub\Nodes\Nodes\Nodes\bin\Debug\Nodes.exe
+E:\GitHub\Nodes\Nodes\Nodes\bin\Debug\Nodes.pdb
+E:\GitHub\Nodes\Nodes\Nodes\obj\Debug\Nodes.csprojAssemblyReference.cache
+E:\GitHub\Nodes\Nodes\Nodes\obj\Debug\Nodes.Form1.resources
+E:\GitHub\Nodes\Nodes\Nodes\obj\Debug\Nodes.Properties.Resources.resources
+E:\GitHub\Nodes\Nodes\Nodes\obj\Debug\Nodes.csproj.GenerateResource.cache
+E:\GitHub\Nodes\Nodes\Nodes\obj\Debug\Nodes.csproj.CoreCompileInputs.cache
+E:\GitHub\Nodes\Nodes\Nodes\obj\Debug\Nodes.exe
+E:\GitHub\Nodes\Nodes\Nodes\obj\Debug\Nodes.pdb
