@@ -1,0 +1,9 @@
+E:\GitHub\Nodes\Nodes\Nodes\bin\Release\Nodes.exe.config
+E:\GitHub\Nodes\Nodes\Nodes\bin\Release\Nodes.exe
+E:\GitHub\Nodes\Nodes\Nodes\bin\Release\Nodes.pdb
+E:\GitHub\Nodes\Nodes\Nodes\obj\Release\Nodes.Form1.resources
+E:\GitHub\Nodes\Nodes\Nodes\obj\Release\Nodes.Properties.Resources.resources
+E:\GitHub\Nodes\Nodes\Nodes\obj\Release\Nodes.csproj.GenerateResource.cache
+E:\GitHub\Nodes\Nodes\Nodes\obj\Release\Nodes.csproj.CoreCompileInputs.cache
+E:\GitHub\Nodes\Nodes\Nodes\obj\Release\Nodes.exe
+E:\GitHub\Nodes\Nodes\Nodes\obj\Release\Nodes.pdb
